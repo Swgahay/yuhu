@@ -1,5 +1,4 @@
-# Yuhu
-
+# Yuhu Baca sampai akhir ya Tod
 
 # Crackfb full uye
 
@@ -25,3 +24,9 @@ cd yuhu
 git pull
 
 python ahay.py
+
+Setelah berhasil login Cokis
+Tulis ulang 👉🏻👉🏻 python ahay.py
+
+
+
